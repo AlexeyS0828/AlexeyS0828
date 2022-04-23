@@ -2,12 +2,6 @@
 ### <div align="center">I'm Alexey, a full-time full-stack freelance developer 👨‍💻 working remotely since 2016 🚀</div>  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 <br/>  
 
 
