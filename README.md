@@ -114,16 +114,6 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=AlexeyS0828&&style=flat-square)  
-  
-
-<br/>  
-
-
 <br/>  
 
 <div align="center">
