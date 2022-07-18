@@ -1,5 +1,5 @@
 
-### <div align="center">Hi, I'm full-stack, full-time web developer 👨‍💻 working remotely since 2016 🚀</div>  
+### <div align="center">Hi, I'm full-stack web developer. 👨‍💻 Working remotely since 2016 🚀</div>  
   
 
 <br/>  
